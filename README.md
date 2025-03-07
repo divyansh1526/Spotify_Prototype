@@ -1,3 +1,5 @@
+# Spotify Front-end Prototype
+
 # Overview
 
 This project is a Spotify Clone (Front Page Only) featuring a responsive UI with basic functionality. It includes a navigation bar, buttons, and an interactive playlist that allows users to play, pause, and control volume.
